@@ -1,5 +1,5 @@
 # Social-Media
-All Websplaining's Social Media Profiles
+-All Websplaining's Social Media Profiles
 Website https://www.websplaining.com
 YouTube https://www.youtube.com/channel/UCWyPnpjekzeGd1ukMZZpTeQ?sub_confirmation=1
 Twitter https://twitter.com/websplaining
